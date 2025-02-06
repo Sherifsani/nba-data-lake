@@ -7,7 +7,7 @@ This project sets up a comprehensive data lake architecture for NBA player analy
 ---
 
 ## Architecture
-!(architecture diagram)[/src/diagram/image.png]
+![architecture diagram](/src/diagram/image.png)
 
  - *IAC*: Terraform
  - *Storage*: Amazon S3
